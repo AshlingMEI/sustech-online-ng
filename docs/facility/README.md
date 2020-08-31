@@ -181,7 +181,7 @@
 
 ![荔园一栋](https://assets.sustech.online/img/facility/buildings/liyuan-block1.jpg)
 
-荔园5栋的1，2楼是餐厅，由外包商运营。6栋楼下有一个超市。
+荔园5栋的1，2楼是餐厅，由外包商运营。4栋楼下有一个超市。
 
 - [荔园](https://sustc.wiki/荔园)
 
